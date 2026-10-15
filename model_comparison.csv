@@ -1,0 +1,3 @@
+Algorithm,Clusters,Silhouette,Noise (%),Assigned (%)
+K-Means,2,0.25306691305529766,0.0,100.0
+DBSCAN,2,0.5827238461473054,6.75,93.25
