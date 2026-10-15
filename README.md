@@ -73,4 +73,4 @@ Open spotify.ipynb with dataset.csv in the same folder.
 The notebook also requires matplotlib, seaborn, and Jupyter.
 
 ## Deployment
-Public application URL: To be added after deployment.
+Public application URL: [Open Spotify App](https://spotify-track-clustering-gg5skg4i6buih9qbx2ucda.streamlit.app/)
